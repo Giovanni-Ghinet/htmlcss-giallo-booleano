@@ -11,4 +11,17 @@
     .container{
         padding: 20px;
     }
+
+    .recipe-origin{
+        display: inline;
+    }
+
+    .recipe-name{
+        font-size: 2rem;
+    }
+
+    .quick-notes li{
+       display: inline-block;
+         width: calc((100% / 3) - (15px * 2) / 3);   
+    }
 }
