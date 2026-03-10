@@ -24,4 +24,8 @@
        display: inline-block;
          width: calc((100% / 3) - (15px * 2) / 3);   
     }
+
+    .btn{
+        padding: 10px 50px;
+    }
 }
